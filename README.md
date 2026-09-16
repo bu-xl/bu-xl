@@ -23,44 +23,69 @@
 <img src="https://skillicons.dev/icons?i=react,ts,vite,electron" height="36" alt="React TypeScript Vite Electron"/>&nbsp;
 <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand"/>
 <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts"/>
-<img src="https://img.shields.io/badge/Web%20Serial-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Serial"/>
+<img src="https://img.shields.io/badge/Web%20Serial-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Serial API"/>
 </td>
 </tr>
+
 <tr>
 <td align="right"><b>Mobile</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react" height="36" alt="React Native"/>&nbsp;
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-<img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE"/>
+<img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
 </td>
 </tr>
+
 <tr>
 <td align="right"><b>Backend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,sequelize" height="36" alt="Node.js Express MySQL Prisma Sequelize"/>&nbsp;
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square" alt="S3"/>
 </td>
 </tr>
+
+<tr>
+<td align="right"><b>Communication</b></td>
+<td>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
+<img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Storage</b></td>
+<td>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+</td>
+</tr>
+
 <tr>
 <td align="right"><b>Firmware</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=c,cpp" height="36" alt="C C++"/>&nbsp;
 <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-S3"/>
-<img src="https://img.shields.io/badge/ESP--IDF%20%2F%20FreeRTOS-E7352C?style=flat-square" alt="ESP-IDF FreeRTOS"/>
+<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF"/>
+<img src="https://img.shields.io/badge/FreeRTOS-20A4F3?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS"/>
 <img src="https://img.shields.io/badge/nRF5340-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" alt="nRF5340"/>
 <img src="https://img.shields.io/badge/Zephyr%20%2F%20NCS-2E3440?style=flat-square" alt="Zephyr NCS"/>
-<img src="https://img.shields.io/badge/MCUboot%20DFU-2E3440?style=flat-square" alt="MCUboot"/>
+<img src="https://img.shields.io/badge/MCUboot%20%2F%20DFU-2E3440?style=flat-square" alt="MCUboot DFU"/>
 </td>
 </tr>
+
 <tr>
-<td align="right"><b>Ops</b></td>
+<td align="right"><b>Infrastructure</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github" height="36" alt="Linux Nginx Docker Git GitHub"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker" height="36" alt="Linux Nginx Docker"/>&nbsp;
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github" height="36" alt="Git GitHub"/>
 </td>
 </tr>
 </table>
