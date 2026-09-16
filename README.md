@@ -20,10 +20,13 @@
 <tr>
 <td align="right"><b>Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,ts,vite,electron" height="36" alt="React TypeScript Vite Electron"/>&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
 <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand"/>
 <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts"/>
-<img src="https://img.shields.io/badge/Web%20Serial-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Serial API"/>
+<img src="https://img.shields.io/badge/Web%20Serial%20API-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Web Serial API"/>
 </td>
 </tr>
 
@@ -32,24 +35,25 @@
 <td>
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-<img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,sequelize" height="36" alt="Node.js Express MySQL Prisma Sequelize"/>&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Communication</b></td>
 <td>
+<img src="https://img.shields.io/badge/Bluetooth%20Low%20Energy-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy"/>
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
-<img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
 </td>
 </tr>
@@ -64,20 +68,25 @@
 <tr>
 <td align="right"><b>Firmware</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=c,cpp" height="36" alt="C C++"/>&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-S3"/>
 <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF"/>
 <img src="https://img.shields.io/badge/FreeRTOS-20A4F3?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS"/>
 <img src="https://img.shields.io/badge/nRF5340-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" alt="nRF5340"/>
-<img src="https://img.shields.io/badge/Zephyr%20%2F%20NCS-2E3440?style=flat-square" alt="Zephyr NCS"/>
-<img src="https://img.shields.io/badge/MCUboot%20%2F%20DFU-2E3440?style=flat-square" alt="MCUboot DFU"/>
+<img src="https://img.shields.io/badge/Zephyr-2E3440?style=flat-square" alt="Zephyr RTOS"/>
+<img src="https://img.shields.io/badge/nRF%20Connect%20SDK-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white" alt="nRF Connect SDK"/>
+<img src="https://img.shields.io/badge/MCUboot-2E3440?style=flat-square" alt="MCUboot"/>
+<img src="https://img.shields.io/badge/DFU-555555?style=flat-square" alt="Device Firmware Update"/>
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>Infrastructure</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker" height="36" alt="Linux Nginx Docker"/>&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
 </td>
 </tr>
@@ -85,11 +94,11 @@
 <tr>
 <td align="right"><b>Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github" height="36" alt="Git GitHub"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## 🎯 Engineering Focus
